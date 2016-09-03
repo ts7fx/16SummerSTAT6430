@@ -1,0 +1,5 @@
+sqre 45 45
+rect 45 90
+bar   5 90
+pole 90  5
+
